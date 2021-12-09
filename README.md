@@ -15,3 +15,4 @@
     * new Date으로 시간을 불러와서 침의 각도를 설정함
 
 
+노션 정리 :  https://www.notion.so/MiniClock-ccdc6bf8583048d29c9357b2f124b620
